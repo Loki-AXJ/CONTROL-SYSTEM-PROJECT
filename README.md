@@ -1,2 +1,27 @@
-# CONTROL-SYSTEM-PROJECT
-🚑 Smart Traffic System for Ambulances using IoT-based transmitters &amp; receivers. The system wirelessly alerts nearby drivers inside their vehicles when an ambulance approaches, helping them clear the road faster. A scalable Control System concept for smarter, safer &amp; efficient emergency response. 🚦📡
+# 🚑 Smart Traffic System for Ambulances
+
+## 📌 Project Overview
+
+## 🎯 Objectives
+
+## 💡 Proposed Solution
+
+## ⚙️ System Architecture
+
+## 🔄 Working Principle
+
+## 💻 MATLAB Simulation
+
+## 📊 Simulation Results
+
+## 🖼️ Project Images
+
+## 🧩 Technologies Used
+
+## 🚀 Future Scope
+
+## 👥 Team Members
+
+## 👨‍🏫 Guided By
+
+## 🏛️ Institution
