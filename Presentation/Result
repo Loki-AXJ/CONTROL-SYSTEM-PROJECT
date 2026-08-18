@@ -1,1 +1,8 @@
+## 📊 MATLAB Simulation Results
 
+The MATLAB R2024b simulation demonstrates the complete signal-processing sequence:
+
+**Ambulance Transmitter → Communication Delay → Vehicle Receiver → 
+Cyron Alert → Driver Response**
+
+![Simulation Results](images/simulation_results.png)
